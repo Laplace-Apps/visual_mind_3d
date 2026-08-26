@@ -5,6 +5,13 @@ description: >
 version: 0.1.0
 homepage: https://github.com/Laplace-Apps/visual_mind_3d
 repository: https://github.com/Laplace-Apps/visual_mind_3d
+issue_tracker: https://github.com/Laplace-Apps/visual_mind_3d/issues
+topics:
+  - flutter
+  - widget
+  - ui
+  - animation
+  - visualization
 
 environment:
   sdk: ^3.10.7
