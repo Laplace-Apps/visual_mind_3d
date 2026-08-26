@@ -7,13 +7,13 @@ homepage: https://github.com/Laplace-Apps/visual_mind_3d
 repository: https://github.com/Laplace-Apps/visual_mind_3d
 
 environment:
-  sdk: ^3.13.1
+  sdk: ^3.10.7
   flutter: ">=3.27.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  vector_math: ^2.4.2
+  vector_math: ^2.1.4
 
 dev_dependencies:
   flutter_test:
